@@ -1,0 +1,5 @@
+C:\Users\user\Downloads\PortableGit\BP202\29mart\29mart\obj\Debug\netcoreapp3.1\29mart.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\PortableGit\BP202\29mart\29mart\obj\Debug\netcoreapp3.1\29mart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\PortableGit\BP202\29mart\29mart\obj\Debug\netcoreapp3.1\29mart.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\PortableGit\BP202\29mart\29mart\obj\Debug\netcoreapp3.1\29mart.AssemblyInfo.cs
+C:\Users\user\Downloads\PortableGit\BP202\29mart\29mart\obj\Debug\netcoreapp3.1\29mart.csproj.CoreCompileInputs.cache
